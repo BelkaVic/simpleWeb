@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3335625186">
+    <data-source source="LOCAL" name="MySQL - hr_test@localhost" uuid="49849266-9cee-486e-9e77-38cfcb575e26">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hr_test</jdbc-url>
+      <user-name>candidate</user-name>
+      <user-password>dfc9dfcbdfc4dfcedfc3dfcedfcbdfdedfcf</user-password>
+      <schema-pattern>hr_test.*</schema-pattern>
+      <default-schemas>hr_test.*</default-schemas>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="connectionCollation" value="utf8_general_ci" />
+        <property name="useOldUTF8Behavior" value="true" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
